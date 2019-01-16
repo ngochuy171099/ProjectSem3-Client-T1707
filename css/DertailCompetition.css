@@ -1,0 +1,23 @@
+body{
+	background: url("http://khaosat.vndirect.com.vn/images/bg_body.png") repeat top left;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+	font-size: 15px;
+	color: #333;
+}
+.banner-top{
+	background: url(../image/Banner-Competition.jpg) ; 
+	background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 250px;
+}
+#title-competition{
+	background-image:url(https://www.competitionsciences.org/wp-content/uploads/2017/04/futurecity_logo.png);
+    background-color: #FFFFFF;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 95%;
+    border: 2px solid #CCCCCC;
+    height: 200px;
+    width: 200px;
+}
